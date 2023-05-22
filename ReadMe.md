@@ -11,8 +11,7 @@ contidas neste arquivo. <br>
 Assim, implemente um algoritmo em C ou C++ que faça a leitura deste arquivo, que
 descriptografe e gere um novo arquivo com as informações decriptografadas. <br>
 Para descriptografar os dados, deve-se fazer uso das seguintes informações: <br>
-• Sabe-se que a criptografia que foi utilizada, foi a [Cifra de César]
-(https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar). <br>
+• Sabe-se que a criptografia que foi utilizada, foi a [Cifra de César](https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar). <br>
 • A criptografia foi aplicada apenas sobre letras(a-z) e números(0-9); <br>
 • Não se sabe exatamente a chave que foi utilizada, no entanto sabe-se que foi um
 número entre 1 e 5, portanto a chave deve ser fornecida através da leitura no
